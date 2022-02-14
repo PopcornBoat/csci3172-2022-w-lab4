@@ -1,0 +1,18 @@
+/**
+   @author Yuxuan Wang
+   @email yx703587@dal.ca
+   @descp CSCI 3172 Lab 4, customize the bootstrap style
+*/
+
+/** customize the select style */
+#week-days {
+    width: 50%;
+}
+
+#select-container {
+    background-color: #d48a80;
+}
+
+.container {
+    min-width: 340px;
+}
